@@ -1,0 +1,17 @@
+
+
+Prereq:
+--------
+JDK Version 11/17
+Jenkins.war
+Apache Maven
+Eclipse/STS
+SonarQube Server(optional)
+Git
+Notepad++
+Github Account----Code repo
+Java / SpringBoot App --- demonstration
+Tomcat Server 8.0/8.5
+
+Plug-ins installed in c drive-users-baka-.jenkins
+
